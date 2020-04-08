@@ -75,3 +75,4 @@ It should look like this
 ## Disclaimer:
 
 I'm not responsible for what you do. This bot is made for educational purposes only.
+[![Run on Repl.it](https://repl.it/badge/github/Barsik008/PossumBot)](https://repl.it/github/Barsik008/PossumBot)
